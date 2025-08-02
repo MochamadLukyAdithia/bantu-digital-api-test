@@ -69,12 +69,6 @@ Untuk memudahkan pengujian, Anda bisa melakukan registrasi user baru melalui end
 -   **Email:** `testuser@example.com`
 -   **Password:** `password123`
 
-## Dokumentasi API 
-
-Tentu saja. Membuat dokumentasi yang lengkap dan jelas adalah salah satu bagian terpenting dari pengembangan API dan merupakan nilai tambah yang sangat besar dalam penilaian.
-
-Berikut adalah contoh dokumentasi API yang lengkap dalam format **Markdown**. Anda bisa menyimpan ini sebagai file `API_DOCUMENTATION.md` di dalam repository GitHub Anda. Format ini paling mudah dibuat dan dibaca langsung di GitHub.
-
 -----
 
 # **Dokumentasi API - Simple Article API**
