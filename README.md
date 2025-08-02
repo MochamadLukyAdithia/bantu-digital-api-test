@@ -141,10 +141,10 @@ Membuat akun user baru.
 
 ```json
 {
-    "name": "Budi Sanjaya",
-    "email": "budi.sanjaya@example.com",
-    "password": "password123",
-    "password_confirmation": "password123"
+    "name": "LukyAdithia",
+    "email": "lukyadithia@example.com",
+    "password": "lukyadithia123",
+    "password_confirmation": "lukyadithia123"
 }
 ```
 
@@ -154,8 +154,8 @@ Membuat akun user baru.
 {
     "message": "Registration successful",
     "user": {
-        "name": "Budi Sanjaya",
-        "email": "budi.sanjaya@example.com",
+        "name": "LukyAdithia",
+        "email": "lukyadithia@example.com",
         "updated_at": "2025-08-02T17:30:00.000000Z",
         "created_at": "2025-08-02T17:30:00.000000Z",
         "id": 1
@@ -194,8 +194,8 @@ Mengautentikasi user dan mendapatkan access token.
 
 ```json
 {
-    "email": "budi.sanjaya@example.com",
-    "password": "password123"
+    "email": "lukyadithia@example.com",
+    "password": "lukyadithia123"
 }
 ```
 
@@ -260,7 +260,7 @@ Mengambil daftar semua artikel dengan paginasi dan fitur pencarian.
             "id": 1,
             "title": "Mengenal Laravel 12",
             "content": "Ini adalah konten tentang fitur baru di Laravel 12...",
-            "author": "Budi Sanjaya",
+            "author": "Luky Adithia",
             "created_at": "2025-08-02T17:45:00.000000Z",
             "updated_at": "2025-08-02T17:45:00.000000Z"
         }
@@ -301,7 +301,7 @@ Mengambil daftar semua artikel dengan paginasi dan fitur pencarian.
 {
     "title": "Tips Efektif Belajar API",
     "content": "Berikut adalah beberapa tips untuk belajar REST API secara efektif...",
-    "author": "Budi Sanjaya"
+    "author": "Luky Adithia"
 }
 ```
 
