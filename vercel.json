@@ -13,7 +13,7 @@
     "outputDirectory": "public",
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "false",
+        "APP_DEBUG": "true",
         "APP_URL": "https://yourproductionurl.com",
         "APP_KEY": "base64:nE/otxaRKF6jcmtCTxcZ7TRsQQzFVBoGpi1hqmSzFA0=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
