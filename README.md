@@ -71,7 +71,7 @@ Untuk memudahkan pengujian, Anda bisa melakukan registrasi user baru melalui end
 
 -----
 
-# **Dokumentasi API - Simple Article API**
+# **Dokumentasi API**
 
 Selamat datang di dokumentasi resmi untuk Simple Article API. API ini memungkinkan Anda untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada artikel dan mengelola otentikasi pengguna.
 
